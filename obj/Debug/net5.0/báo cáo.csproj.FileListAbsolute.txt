@@ -1,0 +1,16 @@
+E:\Project3\bin\Debug\net5.0\báo cáo.exe
+E:\Project3\bin\Debug\net5.0\báo cáo.deps.json
+E:\Project3\bin\Debug\net5.0\báo cáo.runtimeconfig.json
+E:\Project3\bin\Debug\net5.0\báo cáo.runtimeconfig.dev.json
+E:\Project3\bin\Debug\net5.0\báo cáo.dll
+E:\Project3\bin\Debug\net5.0\ref\báo cáo.dll
+E:\Project3\bin\Debug\net5.0\báo cáo.pdb
+E:\Project3\obj\Debug\net5.0\báo cáo.csprojAssemblyReference.cache
+E:\Project3\obj\Debug\net5.0\báo cáo.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project3\obj\Debug\net5.0\báo cáo.AssemblyInfoInputs.cache
+E:\Project3\obj\Debug\net5.0\báo cáo.AssemblyInfo.cs
+E:\Project3\obj\Debug\net5.0\báo cáo.csproj.CoreCompileInputs.cache
+E:\Project3\obj\Debug\net5.0\báo cáo.dll
+E:\Project3\obj\Debug\net5.0\ref\báo cáo.dll
+E:\Project3\obj\Debug\net5.0\báo cáo.pdb
+E:\Project3\obj\Debug\net5.0\báo cáo.genruntimeconfig.cache
